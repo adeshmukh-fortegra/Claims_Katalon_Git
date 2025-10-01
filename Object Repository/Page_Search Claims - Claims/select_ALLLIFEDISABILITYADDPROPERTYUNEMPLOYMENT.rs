@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ALLLIFEDISABILITYADDPROPERTYUNEMPLOYMENT</name>
+   <tag></tag>
+   <elementGuidId>7d2ba8d1-0ac6-467e-b26d-64e2ecafadc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ClaimType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ClaimType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Claim Type&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>948301ad-3ea9-48e9-ae8c-4fe35074d0d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>8fe29cd7-e8b8-4d55-99d3-1427d3f64c86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ClaimType</value>
+      <webElementGuid>e497119a-21c1-4a03-8a2b-eec0e073c180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ClaimType</value>
+      <webElementGuid>e8579404-5453-4dea-90c9-53b6b66ec55d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ALL
+LIFE
+DISABILITY
+AD&amp;D
+PROPERTY
+UNEMPLOYMENT
+</value>
+      <webElementGuid>a9b1ed28-1b9d-44d9-8529-72a381bebd5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ClaimType&quot;)</value>
+      <webElementGuid>5fcab4b6-5118-4b4e-9312-555dd7ac80f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ClaimType']</value>
+      <webElementGuid>0ae9f562-a46f-48f5-aaf0-70e126733113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='SearchResultsForm']/div[4]/div/div/select</value>
+      <webElementGuid>fd7d09c4-6af8-4858-bd49-a87c06966fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Type'])[1]/following::select[1]</value>
+      <webElementGuid>e4939ead-1e3d-40e4-b908-82e232611e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status End Date'])[1]/following::select[1]</value>
+      <webElementGuid>fa623136-f720-4f52-ae80-ece3f5ad8803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Claims With Payments'])[1]/preceding::select[1]</value>
+      <webElementGuid>8abbc80b-0dea-4523-9571-965e1bfb642c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Number'])[2]/preceding::select[1]</value>
+      <webElementGuid>fb514a55-93de-4297-9cc3-a32ce54ecb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/select</value>
+      <webElementGuid>1ebe9b3c-a9a7-433d-b777-6dfef1b31ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ClaimType' and @name = 'ClaimType' and (text() = 'ALL
+LIFE
+DISABILITY
+AD&amp;D
+PROPERTY
+UNEMPLOYMENT
+' or . = 'ALL
+LIFE
+DISABILITY
+AD&amp;D
+PROPERTY
+UNEMPLOYMENT
+')]</value>
+      <webElementGuid>28fb1316-eda4-4038-92f7-12ccf7bf5c38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

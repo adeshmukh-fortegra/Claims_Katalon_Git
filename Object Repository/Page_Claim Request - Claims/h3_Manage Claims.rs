@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Manage Claims</name>
+   <tag></tag>
+   <elementGuidId>c2bac3f5-b734-47b3-9928-94ec9f595af9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordian']/ul/li/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.credit-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Manage Claims &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>4e8b254b-ad16-449d-8d6e-b3c8c0054625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>credit-menu</value>
+      <webElementGuid>3539fe25-48d0-40bb-8413-f5996ed1098e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Claims </value>
+      <webElementGuid>133f60cc-6a1c-4e71-bf8d-c5da933a402a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordian&quot;)/ul[1]/li[1]/h3[@class=&quot;credit-menu&quot;]</value>
+      <webElementGuid>0333f078-30ef-4081-aa92-acfdf9d372b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordian']/ul/li/h3</value>
+      <webElementGuid>8dde1350-fa67-42b3-bbf0-f0fd491dc266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Claim Tasks'])[1]/preceding::h3[1]</value>
+      <webElementGuid>7450ce0a-617e-4728-80b2-40bef713d93f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Claim Submission'])[1]/preceding::h3[1]</value>
+      <webElementGuid>0e3dd8b2-22ce-42ec-8246-34fe39100665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Claims']/parent::*</value>
+      <webElementGuid>0799df03-a88e-44c1-aa00-4f13d3c53f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>64ac38db-d45f-4759-8a39-92b9c6e348d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Manage Claims ' or . = 'Manage Claims ')]</value>
+      <webElementGuid>207b6a8c-9d8a-4833-893d-af3a288e60b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

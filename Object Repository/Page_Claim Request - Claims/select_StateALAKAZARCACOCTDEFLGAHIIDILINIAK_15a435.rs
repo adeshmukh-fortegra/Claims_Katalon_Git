@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_StateALAKAZARCACOCTDEFLGAHIIDILINIAK_15a435</name>
+   <tag></tag>
+   <elementGuidId>e530ebe8-f351-4667-b5c0-6dd660fbf6bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='State']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#State</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;State&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ca71adad-2ab4-4a40-a70f-838fcba8b69f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>2621c381-9c02-4242-88ad-dd980d0c1459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>be0a385a-507d-467a-a47b-021580b53df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The State field is required.</value>
+      <webElementGuid>3241d4e1-8abb-4d2e-85b6-0c64ba75aaca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>State</value>
+      <webElementGuid>b9b73cb3-634d-42e0-9e35-aee72d65c550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>State</value>
+      <webElementGuid>8919853f-b465-4d2e-a03d-aa73369b1acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+</value>
+      <webElementGuid>0a8d8a6e-eed9-4916-92e5-166b896ee678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;State&quot;)</value>
+      <webElementGuid>da568655-ab2e-45b3-b7d2-08285526cc61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='State']</value>
+      <webElementGuid>8afac00b-01e8-4f83-bdc0-2a58af887c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='information']/div/div[3]/div[5]/div[4]/div/select</value>
+      <webElementGuid>2318de33-d71e-470d-bc83-31702b8cc5dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::select[1]</value>
+      <webElementGuid>f9eb1e6d-8828-44f1-960f-1e8a57f74afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/following::select[1]</value>
+      <webElementGuid>c078e4df-3545-4fdf-ac77-03c435cc23dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip'])[1]/preceding::select[1]</value>
+      <webElementGuid>3b57be20-f787-4bda-ae43-6119b930a24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Search Certificate'])[1]/preceding::select[1]</value>
+      <webElementGuid>f17230c5-f4c3-4de2-9988-1405cf537882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>0f2770dc-158a-4edc-b8ce-f4a69f47724a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'State' and @name = 'State' and (text() = 'State
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+' or . = 'State
+AL
+AK
+AZ
+AR
+CA
+CO
+CT
+DE
+FL
+GA
+HI
+ID
+IL
+IN
+IA
+KS
+KY
+LA
+ME
+MD
+MA
+MI
+MN
+MS
+MO
+MT
+NE
+NV
+NH
+NJ
+NM
+NY
+NC
+ND
+OH
+OK
+OR
+PA
+RI
+SC
+SD
+TN
+TX
+UT
+VT
+VA
+WA
+WV
+WI
+WY
+')]</value>
+      <webElementGuid>1933deec-62b8-4019-a613-eb4cc6036b1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

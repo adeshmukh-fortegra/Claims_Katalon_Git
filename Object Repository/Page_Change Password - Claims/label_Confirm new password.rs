@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Confirm new password</name>
+   <tag></tag>
+   <elementGuidId>1c7ac629-c19e-4310-bd43-57045f47d969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content-inner']/form/div/div[4]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Confirm new password&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5da6c217-c6d8-4589-8f72-bce7ac7d05b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-2 control-label</value>
+      <webElementGuid>63f8875a-b489-433f-a5b0-4f000e04f328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ConfirmPassword</value>
+      <webElementGuid>e0e33989-e74c-4169-915e-f0ecb7f8eb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm new password</value>
+      <webElementGuid>d2a3ac94-e257-498b-9b0f-1abfefc5cfad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-inner&quot;)/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;col-lg-12 col-md-12 white-background-box&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;col-md-2 control-label&quot;]</value>
+      <webElementGuid>fb50455e-e50e-419d-9b89-ee668772a98e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content-inner']/form/div/div[4]/label</value>
+      <webElementGuid>07da58ce-526d-4dab-badd-da47dd3359f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New password'])[1]/following::label[1]</value>
+      <webElementGuid>dcc9ee8b-eeae-46d5-a582-000e9e97978a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current password'])[1]/following::label[2]</value>
+      <webElementGuid>3e28460a-4eb4-4dac-aa65-b5848c3ef376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm new password']/parent::*</value>
+      <webElementGuid>b14ee6bc-1ba4-47aa-8036-ad8d18101dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label</value>
+      <webElementGuid>e764a3bf-b191-4421-a221-7bc4fc56c2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Confirm new password' or . = 'Confirm new password')]</value>
+      <webElementGuid>2fa72222-3b59-40a8-a6e7-41f48bf938b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

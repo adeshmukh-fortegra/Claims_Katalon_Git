@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ClaimsPortal_Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7b534e5f-b8cf-45f2-94fe-80934421d960</testSuiteGuid>
+   <testCaseLink>
+      <guid>a8d58cab-c629-4154-bc9a-4c9ab5d8fc81</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ClaimsPortalLogin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>71199385-0bdf-4842-8980-36fda4fd59a2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginCredential</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>71199385-0bdf-4842-8980-36fda4fd59a2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
+         <variableId>3c0ac037-99d1-4006-b45f-39bac9223df3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>71199385-0bdf-4842-8980-36fda4fd59a2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>7583c928-3c03-4e82-8805-fc33c9443dcc</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

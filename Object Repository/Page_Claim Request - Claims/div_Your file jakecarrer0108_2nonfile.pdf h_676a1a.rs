@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your file jakecarrer0108_2nonfile.pdf h_676a1a</name>
+   <tag></tag>
+   <elementGuidId>4aee4dc0-9f77-457e-a9b0-19297b6b12bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Your file jakecarrer0108_2nonfile.pdf has been uploaded!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82c7199a-9269-4860-8661-59a9c2920dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-message</value>
+      <webElementGuid>6471cbaa-a27b-4c33-9f7a-4df1d4d58798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your file jakecarrer0108_2nonfile.pdf has been uploaded!</value>
+      <webElementGuid>88fc1df1-756b-4fc9-bfe6-ab8c156a258e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;toast toast-success&quot;]/div[@class=&quot;toast-message&quot;]</value>
+      <webElementGuid>fcbdcdd5-2189-488d-84f1-1b2bab474d46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div[2]</value>
+      <webElementGuid>d6f8a9e7-2ee1-473f-821e-5e8e27ccd3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Congratulations'])[1]/following::div[1]</value>
+      <webElementGuid>5c80c90a-f236-4274-baa4-39948678a8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[4]/following::div[8]</value>
+      <webElementGuid>0200d35b-f336-448e-96da-dbd67ddf2d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your file jakecarrer0108_2nonfile.pdf has been uploaded!']/parent::*</value>
+      <webElementGuid>f0b24213-42cb-40f7-aa26-dfb1f684e5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]</value>
+      <webElementGuid>ae98cae9-6973-415b-a09b-22d90847b5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your file jakecarrer0108_2nonfile.pdf has been uploaded!' or . = 'Your file jakecarrer0108_2nonfile.pdf has been uploaded!')]</value>
+      <webElementGuid>83fbe917-daea-47d7-b0be-2a59e8514fe4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
