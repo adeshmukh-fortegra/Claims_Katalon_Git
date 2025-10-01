@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
+WebUI.delay(2)
+
 WebUI.navigateToUrl(GlobalVariable.G_URL_QA)
 
 WebUI.setText(findTestObject('Object Repository/Page_Fortegra Portal Login/input_Login_UserName'), UserId)
