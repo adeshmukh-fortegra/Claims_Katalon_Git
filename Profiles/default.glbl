@@ -4,25 +4,4 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'https://claimsportal.qa.priv.life-south.com/Account/Login?ReturnUrl=%2F'</initValue>
-      <name>G_URL_QA</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'https://portal.uat.fortegra.com/'</initValue>
-      <name>G_URL_UAT</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'https://claimsportal.dev.priv.life-south.com/Account/Login'</initValue>
-      <name>G_URL_DEV</name>
-      <protected>false</protected>
-      <valueType>STRING</valueType>
-   </GlobalVariableEntity>
 </GlobalVariableEntities>

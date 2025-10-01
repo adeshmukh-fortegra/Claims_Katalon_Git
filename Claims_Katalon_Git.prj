@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Claims_portal</name>
+   <name>Claims_Katalon_Git</name>
    <tag></tag>
-   <UUID>6e3275c6-087c-460a-8205-39412865f97f</UUID>
+   <UUID>d467e29e-1ab0-4092-b0c4-f04630820276</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.2.4</createdVersion>
    <freeLicense>false</freeLicense>
@@ -11,7 +11,6 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.2.4</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\adeshmukh\Katalon Studio\Claims_portal\Claims_portal.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -30,6 +29,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <timeStampInProperties>true</timeStampInProperties>
-   <type>WEBUI</type>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>GENERIC</type>
 </Project>
